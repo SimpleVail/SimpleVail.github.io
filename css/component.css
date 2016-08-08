@@ -65,9 +65,9 @@ nav { margin: 0 auto;display: inline-block;}
 /* -------------------------------------Title-------------------------------- */
 /* ---------------------------------------------------------------------------- */
 .title {font-size: 25px;color:#9B4800;line-height: 3em;}
-.title {background: url("../images/Untitled-2.jpg") repeat-x left;}
+.title {background: repeat-x left;}
 .title {margin: 20px 20px -15px 20px;}
-.title a{padding: 0 15px 0 15px;background-color: #fff;}
+.title a{padding: 0 15px 0 15px;background-color:;}
 .title a:hover {opacity: 3;}
 
 /* ---------------------------------------------------------------------------- */
